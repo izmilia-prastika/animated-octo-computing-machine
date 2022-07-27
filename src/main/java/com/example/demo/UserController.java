@@ -1,8 +1,8 @@
-package com.example.demo
+package com.example.demo;
 
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController
+@RestController;
 
 public class UserController {
     @GetMapping
